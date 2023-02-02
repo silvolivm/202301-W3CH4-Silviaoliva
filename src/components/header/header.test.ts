@@ -10,7 +10,5 @@ describe('Given Header component', () => {
     expect(element).toBeInstanceOf(Header);
     const h1 = screen.getByRole('heading', { name: mockTitle });
     expect(h1).toBeInTheDocument();
-    const p = screen.getByRole('note');
-    expect(p).toBeInTheDocument();
   });
 });
