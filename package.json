@@ -1,7 +1,7 @@
 {
-  "name": "week2 - TS",
+  "name": "SERIES",
   "version": "1.0.0",
-  "description": "Ejercicios semana 2 . Bootcamp Madrid",
+  "description": "Ejercicios sobre series",
   "main": "index.js",
   "type": "module",
   "scripts": {
